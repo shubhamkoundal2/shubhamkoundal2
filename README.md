@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shubhamkoundal2/shubhamkoundal2/output/snake.svg" alt="Snake animation" />
-
-###
