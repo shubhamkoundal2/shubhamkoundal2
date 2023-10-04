@@ -1,4 +1,8 @@
-<img align="left" height="220" src="https://datavant.com/wp-content/uploads/2021/09/Health-Data-Analytics-2.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"  />
+</div>
 
 ###
 
@@ -16,20 +20,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="210" src="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shubhamkoundal2/shubhamkoundal2/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -52,5 +42,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/shubhamkoundal2/shubhamkoundal2/output/snake.svg" alt="Snake animation" />
 
 ###
